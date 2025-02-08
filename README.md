@@ -99,9 +99,9 @@ Most of my professional projects are hosted on **Bitbucket** due to client confi
 - **Client Projects**: Various high-performance web applications and solutions built for clients.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ALPR-Project-0061F3?style=for-the-badge&logo=github&logoColor=21FFFF" alt="ALPR Project">
-  <img src="https://img.shields.io/badge/Bot%20Scraper-Project-0061F3?style=for-the-badge&logo=github&logoColor=21FFFF" alt="Bot Scraper Project">
-  <img src="https://img.shields.io/badge/Arcle-Project-0061F3?style=for-the-badge&logo=github&logoColor=21FFFF" alt="Arcle Project">
+  <img src="https://img.shields.io/badge/ALPR-Private-0061F3?style=for-the-badge&logo=github&logoColor=21FFFF" alt="ALPR Project">
+  <img src="https://img.shields.io/badge/Bot%20Scraper-Private-0061F3?style=for-the-badge&logo=github&logoColor=21FFFF" alt="Bot Scraper Project">
+  <img src="https://img.shields.io/badge/Arcle-Private-0061F3?style=for-the-badge&logo=github&logoColor=21FFFF" alt="Arcle Project">
 </p>
 
 ---
