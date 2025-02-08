@@ -19,8 +19,6 @@
 
 ## 🚀 Tech Stack
 
-## 🚀 Tech Stack
-
 ### 📌 Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=21FFFF" alt="JavaScript" />
