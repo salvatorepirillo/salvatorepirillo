@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Saviox-main/Saviox-main/main/Assets 1.svg" alt="Salvatore Pirillo" style="max-width: 100%; height: auto;" />
+  <img src="https://raw.githubusercontent.com/Saviox-main/Saviox-main/main/logo.svg" alt="Salvatore Pirillo" style="max-width: 100%; height: auto;" />
 </p>
 
 <h1 align="center">Hi there, I'm Salvatore Pirillo 👋</h1>
