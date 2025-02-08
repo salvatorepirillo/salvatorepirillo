@@ -95,12 +95,13 @@ Most of my professional projects are hosted on **Bitbucket** due to client confi
 
 - **ALPR**: An Automatic License Plate Recognition system.
 - **Bot Scraper**: A bot-based web scraping tool.
+- **Arcle**: An AI-powered assistance system designed to support elderly individuals, providing automated reminders, health monitoring, and emergency alerts.
 - **Client Projects**: Various high-performance web applications and solutions built for clients.
 
 <p align="center">
   <img src="https://img.shields.io/badge/ALPR-Project-0061F3?style=for-the-badge&logo=github&logoColor=21FFFF" alt="ALPR Project">
   <img src="https://img.shields.io/badge/Bot%20Scraper-Project-0061F3?style=for-the-badge&logo=github&logoColor=21FFFF" alt="Bot Scraper Project">
-  <img src="https://img.shields.io/badge/SeniorCare%20AI-Project-0061F3?style=for-the-badge&logo=github&logoColor=21FFFF" alt="SeniorCare AI Project">
+  <img src="https://img.shields.io/badge/Arcle-Project-0061F3?style=for-the-badge&logo=github&logoColor=21FFFF" alt="Arcle Project">
 </p>
 
 ---
