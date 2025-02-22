@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Saviox-main/Saviox-main/main/logo.svg" alt="Salvatore Pirillo" style="max-width: 100%; height: auto;" />
+  <img src="https://raw.githubusercontent.com/salvatorepirillo/salvatorepirillo/main/logo.svg" alt="Salvatore Pirillo" style="max-width: 100%; height: auto;" />
 </p>
 
 <h1 align="center">Hi there, I'm Salvatore Pirillo 👋</h1>
@@ -119,14 +119,14 @@ Most of my professional projects are hosted on **Bitbucket** due to client confi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Saviox-main">
-    <img src="https://github-readme-stats.vercel.app/api?username=Saviox-main&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
+  <a href="https://github.com/salvatorepirillo">
+    <img src="https://github-readme-stats.vercel.app/api?username=salvatorepirillo&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Saviox-main">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saviox-main&theme=dark&hide_border=true" alt="GitHub Streak">
+  <a href="https://github.com/salvatorepirillo">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=salvatorepirillo&theme=dark&hide_border=true" alt="GitHub Streak">
   </a>
 </p>
 
