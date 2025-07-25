@@ -82,18 +82,6 @@ Design scalable software architectures for startups and SMEs combining technical
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salvatorepirillo&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salvatorepirillo&theme=dark&hide_border=true" alt="GitHub Streak">
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 [![Website](https://img.shields.io/badge/Website-pirillosalvatore.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pirillosalvatore.com)
